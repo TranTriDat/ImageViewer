@@ -17,3 +17,10 @@ Application consists of:
 
 ## Crop Image
 ![cropImg](sample/crop.jpg)
+
+
+## Object Detection
+Using TinyYOLO pretrained model to apply object detection task.
+With 20 classes:
+
+![objectDetection](sample/objectdetection.jpg)
